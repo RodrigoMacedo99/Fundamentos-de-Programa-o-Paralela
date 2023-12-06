@@ -25,3 +25,6 @@ K = \begin{bmatrix}
      0 & -1 &  0
 \end{bmatrix}
 $$
+
+### IMAGEM PARA APLICAR O FILTRO
+![Imagem de Lena](lena.png "Imagem de Lena")
